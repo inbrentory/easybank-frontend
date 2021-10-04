@@ -1,0 +1,2 @@
+# easybank-frontend
+license: MIT
